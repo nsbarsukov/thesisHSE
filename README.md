@@ -2,7 +2,7 @@
 The empirical part of thesis (bachelor degree, Higher School of Economics)
 
 # Elections in UK Parliament in 2015 and 2017: Reasons for Voting Despite Citizens Preferences 
-**Research proposal**
+# Research proposal
 
 The main goal of this study is to prevent the scientific community from defining any contradiction between ideological affiliation and actual voting of citizens as a strategic voting. Within the scope of this paper, such contradiction is a complex system of interaction between external and internal factors (including mentioned explanation) with different levels of significance. The article answers the question as follows: which factors have more influence on the decision to vote despite the preferences on the example of UK elections in parliament in 2015 and 2017. The main empirical method is a logistic regression. The author uses post- and pre-Brexit period to take the possible impact of an external factor into account before suggesting an optimal statistical model, which is capable to detect the mentioned type of contradictions with a high level of precision.
 
